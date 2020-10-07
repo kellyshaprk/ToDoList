@@ -7,12 +7,12 @@ Source Page: <a href="https://github.com/kellyshaprk/ToDoList_Swift" target="_bl
 
 <b>ADD</b>
 <p>User added Christmas on December 24th.</p>
-<img src="add.png" alt="add image"/><img src="add2.png" alt="add image"/>
+<img src="add.png" alt="add image"/>
 <br>
 
 <b>EDIT</b>
-<p>User edited Christmas on December 25th.</p>
-<img src="edit.png" alt="edit image"/><img src="edit2.png" alt="edit image"/>
+<p>User edited the Christmas date.</p>
+<img src="edit.png" alt="edit image"/>
 <br>
 
 <b>DONE</b>
