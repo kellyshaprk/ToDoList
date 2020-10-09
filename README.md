@@ -1,19 +1,19 @@
-<h1> To Do List - Just Do It </h1>
-<br>
-<p>
-Source Page: <a href="https://github.com/kellyshaprk/ToDoList_Swift" target="_blank"> https://github.com/kellyshaprk/ToDoList_Swift </a> 
-</p>
-<br>
+## To Do List - Just Do It
 
-<b>ADD</b>
-<p>User added Christmas on December 24th.</p>
+### Description
+Simple to do list. Add plan and you can edit, done, and delete.
+<br />
+#### ADD
+<br /> 
+User added Christmas on December 24th.
 <img src="add.png" alt="add image"/>
-<br>
+<br />
 
-<b>EDIT</b>
-<p>User edited the Christmas date.</p>
+#### EDIT
+<br /> 
+User edited the Christmas date.
 <img src="edit.png" alt="edit image"/>
-<br>
+<br />
 
-<b>DONE</b>
-<p><img src="done.png" alt="done image"/></p>
+#### DONE
+<br /> <img src="done.png" alt="done image"/>
