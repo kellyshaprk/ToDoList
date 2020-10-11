@@ -1,7 +1,7 @@
 ## To Do List - Just Do It
 
 ### Description
-Simple to do list app. Add plan and you can edit, done, and delete.
+A simple to do list app. Add plan and you can edit, done, and delete.
 <br />
 
 #### ADD
