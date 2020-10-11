@@ -17,3 +17,6 @@ User edited the Christmas date.
 #### DONE
 Strikethrough for completed work.
 <img src="done.png" alt="done image"/>
+
+### Skills
+It uses Swift.
